@@ -4,7 +4,8 @@
 주요 기능은 **QR코드 기반의 식사 체크 시스템**으로 음식물 쓰레기 감소와 세금 낭비 방지를 지원하며, 식단 확인, PX 재고 조회, 알림 등 다양한 기능을 제공합니다.  
 
 ---
-<img width="748" height="525" alt="image" src="https://github.com/user-attachments/assets/d649c0d2-651a-4a11-8f80-fc00ca5e24ea" />
+<img width="1257" height="872" alt="image" src="https://github.com/user-attachments/assets/ad6b7ed2-51ca-43dd-9833-36e24540031c" />
+
 
 ## 주요 기능
 - **QR코드 식사 체크**  
