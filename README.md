@@ -51,5 +51,7 @@
 - [PX 인기 품목 – 국방부](https://data.mnd.go.kr/mbshome/mbs/data/subview.jsp?id=data_020000000000&dataUrl=openapi)  
 
 ---
+## 참고자료
+[2024년 국방 공공데이터 활용 경진대회 참가신청서.pdf](https://github.com/user-attachments/files/22235277/_011005_2024.pdf)
 
 
